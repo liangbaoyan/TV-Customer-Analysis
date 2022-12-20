@@ -1,0 +1,12 @@
+Promotion_ID,StartTime,EndTime,Promoted_Product_Id,Promoted_Price,Currency,time_valid,currency_valid
+51001,22-Sep-21,25-Sep-21,15,5,CNY,1,1
+51002,24-Sep-21,30-Sep-21,9,6,CNY,1,1
+51003,21-Sep-21,27-Sep-21,24,4,CNY,1,1
+51004,16-Sep-21,22-Sep-21,47,5,CNY,1,1
+51005,17-Sep-21,23-Sep-21,33,8,CNY,1,1
+51006,15-Sep-21,22-Sep-21,59,4,CNY,1,1
+51007,15-Sep-21,22-Sep-21,71,7,CNY,1,1
+51008,15-Sep-21,22-Sep-21,66,7,CNY,1,1
+51009,10-Sep-21,24-Sep-21,84,6,CNY,1,1
+51010,8-Sep-21,11-Sep-21,95,3,CNY,1,1
+51011,15-Sep-21,22-Sep-21,64,4,CNY,1,1

@@ -1,0 +1,228 @@
+Customer_ID,Product_Id,Video_Time_Occuption,Product_ID,Title,Year,ReleaseDateTime,Age,"Douban rating",Type,SubType,Price,Currency,Is_Series,video_valid
+5524,1,76,1,"Dick Johnson Is Dead",2020,25-Sep-21,13+,8.8,Movie,comedy,0,CNY,F,1
+2174,1,65,1,"Dick Johnson Is Dead",2020,25-Sep-21,13+,8.8,Movie,comedy,0,CNY,F,1
+4141,1,88,1,"Dick Johnson Is Dead",2020,25-Sep-21,13+,8.8,Movie,comedy,0,CNY,F,1
+6182,1,48,1,"Dick Johnson Is Dead",2020,25-Sep-21,13+,8.8,Movie,comedy,0,CNY,F,1
+5324,1,82,1,"Dick Johnson Is Dead",2020,25-Sep-21,13+,8.8,Movie,comedy,0,CNY,F,1
+7446,1,68,1,"Dick Johnson Is Dead",2020,25-Sep-21,13+,8.8,Movie,comedy,0,CNY,F,1
+965,1,45,1,"Dick Johnson Is Dead",2020,25-Sep-21,13+,8.8,Movie,comedy,0,CNY,F,1
+6177,8,115,8,Sankofa,1993,24-Sep-21,18+,8.4,Movie,"documentary drama",0,CNY,F,1
+4855,8,97,8,Sankofa,1993,24-Sep-21,18+,8.4,Movie,"documentary drama",0,CNY,F,1
+5899,8,45,8,Sankofa,1993,24-Sep-21,18+,8.4,Movie,"documentary drama",0,CNY,F,1
+1994,8,90,8,Sankofa,1993,24-Sep-21,18+,8.4,Movie,"documentary drama",0,CNY,F,1
+387,8,53,8,Sankofa,1993,24-Sep-21,18+,8.4,Movie,"documentary drama",0,CNY,F,1
+2125,8,97,8,Sankofa,1993,24-Sep-21,18+,8.4,Movie,"documentary drama",0,CNY,F,1
+8180,8,19,8,Sankofa,1993,24-Sep-21,18+,8.4,Movie,"documentary drama",0,CNY,F,1
+2569,8,107,8,Sankofa,1993,24-Sep-21,18+,8.4,Movie,"documentary drama",0,CNY,F,1
+2114,19,78,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+9736,19,102,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+4939,19,86,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+6565,19,29,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+2278,19,37,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+9360,19,18,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+1371,19,31,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+9909,19,104,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+7286,19,76,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+7244,19,11,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+6566,19,29,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+8614,19,23,19,INTRUSION,2021,22-Sep-21,18+,8,Movie,"adventure serial",0,CNY,F,1
+8557,25,120,25,Jeans,1998,21-Sep-21,18+,6.1,Movie,drama,0,CNY,F,1
+8375,27,102,27,"Minsara Kanavu",1997,21-Sep-21,18+,7.2,Movie,unknown,0,CNY,F,1
+6853,28,32,28,"Grown Ups",2010,20-Sep-21,18+,6.9,Movie,comedy,0,CNY,F,1
+3076,60,75,60,"naruto shippuden: the movie",2007,15-Sep-21,7+,6.5,Movie,drama,0,CNY,T,1
+1012,61,105,61,"naruto shippuden: the movie: the lost tower",2010,15-Sep-21,13+,7.1,Movie,drama,0,CNY,T,1
+6518,62,81,62,"naruto the movie 2: legend of the stone of gelel",2005,15-Sep-21,13+,7.7,Movie,"short comedy",0,CNY,T,1
+4137,72,99,72,"a storybots space adventure",2021,14-Sep-21,18+,7.6,Movie,comedy,0,CNY,F,1
+8082,74,72,74,"king of boys",2018,14-Sep-21,18+,7.8,Movie,"romantic drama",0,CNY,F,1
+1357,2,97,2,"Blood & Water",2021,24-Sep-21,18+,8.7,"TV Show",comedy,0,CNY,F,1
+1402,2,28,2,"Blood & Water",2021,24-Sep-21,18+,8.7,"TV Show",comedy,0,CNY,F,1
+10629,2,71,2,"Blood & Water",2021,24-Sep-21,18+,8.7,"TV Show",comedy,0,CNY,F,1
+6312,2,85,2,"Blood & Water",2021,24-Sep-21,18+,8.7,"TV Show",comedy,0,CNY,F,1
+8132,2,72,2,"Blood & Water",2021,24-Sep-21,18+,8.7,"TV Show",comedy,0,CNY,F,1
+1050,3,104,3,Ganglands,2021,24-Sep-21,13+,8.5,"TV Show",drama,0,CNY,F,1
+5846,3,72,3,Ganglands,2021,24-Sep-21,13+,8.5,"TV Show",drama,0,CNY,F,1
+1859,3,29,3,Ganglands,2021,24-Sep-21,13+,8.5,"TV Show",drama,0,CNY,F,1
+7503,3,91,3,Ganglands,2021,24-Sep-21,13+,8.5,"TV Show",drama,0,CNY,F,1
+10401,3,82,3,Ganglands,2021,24-Sep-21,13+,8.5,"TV Show",drama,0,CNY,F,1
+1618,3,11,3,Ganglands,2021,24-Sep-21,13+,8.5,"TV Show",drama,0,CNY,F,1
+3332,3,24,3,Ganglands,2021,24-Sep-21,13+,8.5,"TV Show",drama,0,CNY,F,1
+2261,4,86,4,"Jailbirds New Orleans",2021,24-Sep-21,7+,8.5,"TV Show",unknown,0,CNY,F,1
+5346,4,45,4,"Jailbirds New Orleans",2021,24-Sep-21,7+,8.5,"TV Show",unknown,0,CNY,F,1
+4119,4,30,4,"Jailbirds New Orleans",2021,24-Sep-21,7+,8.5,"TV Show",unknown,0,CNY,F,1
+535,4,106,4,"Jailbirds New Orleans",2021,24-Sep-21,7+,8.5,"TV Show",unknown,0,CNY,F,1
+5268,4,95,4,"Jailbirds New Orleans",2021,24-Sep-21,7+,8.5,"TV Show",unknown,0,CNY,F,1
+273,4,94,4,"Jailbirds New Orleans",2021,24-Sep-21,7+,8.5,"TV Show",unknown,0,CNY,F,1
+4452,5,41,5,"Kota Factory",2021,24-Sep-21,18+,2,"TV Show",unknown,0,CNY,F,1
+8504,5,119,5,"Kota Factory",2021,24-Sep-21,18+,2,"TV Show",unknown,0,CNY,F,1
+771,5,87,5,"Kota Factory",2021,24-Sep-21,18+,2,"TV Show",unknown,0,CNY,F,1
+8996,5,23,5,"Kota Factory",2021,24-Sep-21,18+,2,"TV Show",unknown,0,CNY,F,1
+9235,5,55,5,"Kota Factory",2021,24-Sep-21,18+,2,"TV Show",unknown,0,CNY,F,1
+5798,6,60,6,"Midnight Mass",2021,24-Sep-21,7+,8.4,"TV Show","biographical drama",0,CNY,F,1
+11178,6,35,6,"Midnight Mass",2021,24-Sep-21,7+,8.4,"TV Show","biographical drama",0,CNY,F,1
+2230,6,31,6,"Midnight Mass",2021,24-Sep-21,7+,8.4,"TV Show","biographical drama",0,CNY,F,1
+7516,6,88,6,"Midnight Mass",2021,24-Sep-21,7+,8.4,"TV Show","biographical drama",0,CNY,F,1
+7247,6,35,6,"Midnight Mass",2021,24-Sep-21,7+,8.4,"TV Show","biographical drama",0,CNY,F,1
+11100,6,116,6,"Midnight Mass",2021,24-Sep-21,7+,8.4,"TV Show","biographical drama",0,CNY,F,1
+4646,6,15,6,"Midnight Mass",2021,24-Sep-21,7+,8.4,"TV Show","biographical drama",0,CNY,F,1
+3037,6,95,6,"Midnight Mass",2021,24-Sep-21,7+,8.4,"TV Show","biographical drama",0,CNY,F,1
+1473,7,117,7,"My Little Pony: A New Generation",2021,24-Sep-21,18+,4,Movie,unknown,0,CNY,F,1
+1016,7,74,7,"My Little Pony: A New Generation",2021,24-Sep-21,18+,4,Movie,unknown,0,CNY,F,1
+4518,7,42,7,"My Little Pony: A New Generation",2021,24-Sep-21,18+,4,Movie,unknown,0,CNY,F,1
+9370,7,104,7,"My Little Pony: A New Generation",2021,24-Sep-21,18+,4,Movie,unknown,0,CNY,F,1
+8908,7,58,7,"My Little Pony: A New Generation",2021,24-Sep-21,18+,4,Movie,unknown,0,CNY,F,1
+8373,7,109,7,"My Little Pony: A New Generation",2021,24-Sep-21,18+,4,Movie,unknown,0,CNY,F,1
+7533,7,117,7,"My Little Pony: A New Generation",2021,24-Sep-21,18+,4,Movie,unknown,0,CNY,F,1
+2683,7,44,7,"My Little Pony: A New Generation",2021,24-Sep-21,18+,4,Movie,unknown,0,CNY,F,1
+3629,9,54,9,"THE GREAT BRITISH BAKING SHOW",2021,24-Sep-21,7+,8.4,"TV Show",comedy,0,CNY,F,1
+10991,9,39,9,"THE GREAT BRITISH BAKING SHOW",2021,24-Sep-21,7+,8.4,"TV Show",comedy,0,CNY,F,1
+5077,9,66,9,"THE GREAT BRITISH BAKING SHOW",2021,24-Sep-21,7+,8.4,"TV Show",comedy,0,CNY,F,1
+7431,9,43,9,"THE GREAT BRITISH BAKING SHOW",2021,24-Sep-21,7+,8.4,"TV Show",comedy,0,CNY,F,1
+3267,9,62,9,"THE GREAT BRITISH BAKING SHOW",2021,24-Sep-21,7+,8.4,"TV Show",comedy,0,CNY,F,1
+999,10,104,10,"THE STARLING",2021,24-Sep-21,18+,6,Movie,comedy,0,CNY,F,1
+9215,10,76,10,"THE STARLING",2021,24-Sep-21,18+,6,Movie,comedy,0,CNY,F,1
+2286,10,111,10,"THE STARLING",2021,24-Sep-21,18+,6,Movie,comedy,0,CNY,F,1
+1592,10,107,10,"THE STARLING",2021,24-Sep-21,18+,6,Movie,comedy,0,CNY,F,1
+367,10,10,10,"THE STARLING",2021,24-Sep-21,18+,6,Movie,comedy,0,CNY,F,1
+5234,11,83,11,"VENDETTA: TRUTH, LIES AND THE MAFIA",2021,24-Sep-21,18+,8.3,"TV Show",comedy,0,CNY,F,1
+9862,11,50,11,"VENDETTA: TRUTH, LIES AND THE MAFIA",2021,24-Sep-21,18+,8.3,"TV Show",comedy,0,CNY,F,1
+9805,13,52,13,"JE SUIS KARL",2021,23-Sep-21,18+,8.2,Movie,comedy,0,CNY,F,1
+6205,13,70,13,"JE SUIS KARL",2021,23-Sep-21,18+,8.2,Movie,comedy,0,CNY,F,1
+8442,13,19,13,"JE SUIS KARL",2021,23-Sep-21,18+,8.2,Movie,comedy,0,CNY,F,1
+7386,13,101,13,"JE SUIS KARL",2021,23-Sep-21,18+,8.2,Movie,comedy,0,CNY,F,1
+7215,13,85,13,"JE SUIS KARL",2021,23-Sep-21,18+,8.2,Movie,comedy,0,CNY,F,1
+1491,13,55,13,"JE SUIS KARL",2021,23-Sep-21,18+,8.2,Movie,comedy,0,CNY,F,1
+11071,12,112,12,"BANGKOK BREAKING",2021,23-Sep-21,13+,5.5,"TV Show",comedy,0,CNY,F,1
+3381,12,44,12,"BANGKOK BREAKING",2021,23-Sep-21,13+,5.5,"TV Show",comedy,0,CNY,F,1
+8268,14,88,14,"CONFESSIONS OF AN INVISIBLE GIRL",2021,22-Sep-21,18+,8.1,Movie,comedy,0,CNY,F,1
+11051,14,108,14,"CONFESSIONS OF AN INVISIBLE GIRL",2021,22-Sep-21,18+,8.1,Movie,comedy,0,CNY,F,1
+8026,14,28,14,"CONFESSIONS OF AN INVISIBLE GIRL",2021,22-Sep-21,18+,8.1,Movie,comedy,0,CNY,F,1
+433,14,70,14,"CONFESSIONS OF AN INVISIBLE GIRL",2021,22-Sep-21,18+,8.1,Movie,comedy,0,CNY,F,1
+9597,14,70,14,"CONFESSIONS OF AN INVISIBLE GIRL",2021,22-Sep-21,18+,8.1,Movie,comedy,0,CNY,F,1
+1295,14,14,14,"CONFESSIONS OF AN INVISIBLE GIRL",2021,22-Sep-21,18+,8.1,Movie,comedy,0,CNY,F,1
+5290,14,116,14,"CONFESSIONS OF AN INVISIBLE GIRL",2021,22-Sep-21,18+,8.1,Movie,comedy,0,CNY,F,1
+1685,14,64,14,"CONFESSIONS OF AN INVISIBLE GIRL",2021,22-Sep-21,18+,8.1,Movie,comedy,0,CNY,F,1
+5342,17,99,17,"EUROPE'S MOST DANGEROUS MAN: OTTO SKORZENY IN SPAIN",2020,22-Sep-21,13+,8.2,Movie,fantasy,0,CNY,F,1
+9579,17,51,17,"EUROPE'S MOST DANGEROUS MAN: OTTO SKORZENY IN SPAIN",2020,22-Sep-21,13+,8.2,Movie,fantasy,0,CNY,F,1
+7660,17,70,17,"EUROPE'S MOST DANGEROUS MAN: OTTO SKORZENY IN SPAIN",2020,22-Sep-21,13+,8.2,Movie,fantasy,0,CNY,F,1
+1461,17,20,17,"EUROPE'S MOST DANGEROUS MAN: OTTO SKORZENY IN SPAIN",2020,22-Sep-21,13+,8.2,Movie,fantasy,0,CNY,F,1
+821,25,88,25,Jeans,1998,21-Sep-21,18+,6.1,Movie,drama,0,CNY,F,1
+11084,27,105,27,"Minsara Kanavu",1997,21-Sep-21,18+,7.2,Movie,unknown,0,CNY,F,1
+8690,28,95,28,"Grown Ups",2010,20-Sep-21,18+,6.9,Movie,comedy,0,CNY,F,1
+2937,25,75,25,Jeans,1998,21-Sep-21,18+,6.1,Movie,drama,0,CNY,F,1
+9701,27,39,27,"Minsara Kanavu",1997,21-Sep-21,18+,7.2,Movie,unknown,0,CNY,F,1
+9949,28,31,28,"Grown Ups",2010,20-Sep-21,18+,6.9,Movie,comedy,0,CNY,F,1
+10837,60,110,60,"naruto shippuden: the movie",2007,15-Sep-21,7+,6.5,Movie,drama,0,CNY,T,1
+3120,25,74,25,Jeans,1998,21-Sep-21,18+,6.1,Movie,drama,0,CNY,F,1
+5885,27,63,27,"Minsara Kanavu",1997,21-Sep-21,18+,7.2,Movie,unknown,0,CNY,F,1
+4050,28,107,28,"Grown Ups",2010,20-Sep-21,18+,6.9,Movie,comedy,0,CNY,F,1
+3830,25,63,25,Jeans,1998,21-Sep-21,18+,6.1,Movie,drama,0,CNY,F,1
+7987,27,101,27,"Minsara Kanavu",1997,21-Sep-21,18+,7.2,Movie,unknown,0,CNY,F,1
+7798,28,106,28,"Grown Ups",2010,20-Sep-21,18+,6.9,Movie,comedy,0,CNY,F,1
+92,60,39,60,"naruto shippuden: the movie",2007,15-Sep-21,7+,6.5,Movie,drama,0,CNY,T,1
+7055,61,117,61,"naruto shippuden: the movie: the lost tower",2010,15-Sep-21,13+,7.1,Movie,drama,0,CNY,T,1
+10240,62,113,62,"naruto the movie 2: legend of the stone of gelel",2005,15-Sep-21,13+,7.7,Movie,"short comedy",0,CNY,T,1
+3025,25,32,25,Jeans,1998,21-Sep-21,18+,6.1,Movie,drama,0,CNY,F,1
+9283,27,44,27,"Minsara Kanavu",1997,21-Sep-21,18+,7.2,Movie,unknown,0,CNY,F,1
+9970,28,67,28,"Grown Ups",2010,20-Sep-21,18+,6.9,Movie,comedy,0,CNY,F,1
+2730,60,11,60,"naruto shippuden: the movie",2007,15-Sep-21,7+,6.5,Movie,drama,0,CNY,T,1
+10573,61,88,61,"naruto shippuden: the movie: the lost tower",2010,15-Sep-21,13+,7.1,Movie,drama,0,CNY,T,1
+3712,25,89,25,Jeans,1998,21-Sep-21,18+,6.1,Movie,drama,0,CNY,F,1
+6637,27,108,27,"Minsara Kanavu",1997,21-Sep-21,18+,7.2,Movie,unknown,0,CNY,F,1
+3152,28,93,28,"Grown Ups",2010,20-Sep-21,18+,6.9,Movie,comedy,0,CNY,F,1
+5610,60,112,60,"naruto shippuden: the movie",2007,15-Sep-21,7+,6.5,Movie,drama,0,CNY,T,1
+6460,61,27,61,"naruto shippuden: the movie: the lost tower",2010,15-Sep-21,13+,7.1,Movie,drama,0,CNY,T,1
+1349,25,80,25,Jeans,1998,21-Sep-21,18+,6.1,Movie,drama,0,CNY,F,1
+1880,27,46,27,"Minsara Kanavu",1997,21-Sep-21,18+,7.2,Movie,unknown,0,CNY,F,1
+641,28,86,28,"Grown Ups",2010,20-Sep-21,18+,6.9,Movie,comedy,0,CNY,F,1
+8717,60,40,60,"naruto shippuden: the movie",2007,15-Sep-21,7+,6.5,Movie,drama,0,CNY,T,1
+10314,61,83,61,"naruto shippuden: the movie: the lost tower",2010,15-Sep-21,13+,7.1,Movie,drama,0,CNY,T,1
+10854,62,117,62,"naruto the movie 2: legend of the stone of gelel",2005,15-Sep-21,13+,7.7,Movie,"short comedy",0,CNY,T,1
+10492,72,28,72,"a storybots space adventure",2021,14-Sep-21,18+,7.6,Movie,comedy,0,CNY,F,1
+6935,74,18,74,"king of boys",2018,14-Sep-21,18+,7.8,Movie,"romantic drama",0,CNY,F,1
+503,15,61,15,"CRIME STORIES: INDIA DETECTIVES",2021,22-Sep-21,7+,4.5,"TV Show",comedy,10,CNY,F,1
+8430,15,19,15,"CRIME STORIES: INDIA DETECTIVES",2021,22-Sep-21,7+,4.5,"TV Show",comedy,10,CNY,F,1
+7281,15,120,15,"CRIME STORIES: INDIA DETECTIVES",2021,22-Sep-21,7+,4.5,"TV Show",comedy,10,CNY,F,1
+2139,15,85,15,"CRIME STORIES: INDIA DETECTIVES",2021,22-Sep-21,7+,4.5,"TV Show",comedy,10,CNY,F,1
+1371,15,25,15,"CRIME STORIES: INDIA DETECTIVES",2021,22-Sep-21,7+,4.5,"TV Show",comedy,10,CNY,F,1
+9909,15,22,15,"CRIME STORIES: INDIA DETECTIVES",2021,22-Sep-21,7+,4.5,"TV Show",comedy,10,CNY,F,1
+7286,15,47,15,"CRIME STORIES: INDIA DETECTIVES",2021,22-Sep-21,7+,4.5,"TV Show",comedy,10,CNY,F,1
+7244,15,19,15,"CRIME STORIES: INDIA DETECTIVES",2021,22-Sep-21,7+,4.5,"TV Show",comedy,10,CNY,F,1
+6566,15,50,15,"CRIME STORIES: INDIA DETECTIVES",2021,22-Sep-21,7+,4.5,"TV Show",comedy,10,CNY,F,1
+8614,15,71,15,"CRIME STORIES: INDIA DETECTIVES",2021,22-Sep-21,7+,4.5,"TV Show",comedy,10,CNY,F,1
+4114,23,76,23,"Avvai Shanmughi",1996,21-Sep-21,18+,8,Movie,comedy,6,CNY,F,1
+1331,23,56,23,"Avvai Shanmughi",1996,21-Sep-21,18+,8,Movie,comedy,6,CNY,F,1
+2225,24,76,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+9381,24,102,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+6260,24,95,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+10383,24,33,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+7437,24,64,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+8557,24,51,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+8375,24,66,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+6853,24,99,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+3076,24,38,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+1012,24,34,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+6518,24,39,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+4137,24,111,24,"Go! Go! Cory Carson: Chrissy Takes the Wheel",2021,21-Sep-21,13+,8,Movie,western,6,CNY,F,1
+8082,34,112,34,"Squid Game",2021,17-Sep-21,7+,7.6,"TV Show",unknown,10,CNY,F,1
+1386,35,26,35,"Tayo and Little Wizards",2020,17-Sep-21,7+,8.4,"TV Show",historical,10,CNY,F,1
+3559,36,85,36,"The Father Who Moves Mountains",2021,17-Sep-21,7+,4.8,Movie,adventure,6,CNY,F,1
+10562,37,30,37,"The Stronghold",2021,17-Sep-21,13+,7.6,Movie,"comedy short",6,CNY,F,1
+10796,38,43,38,"Angry Birds",2018,16-Sep-21,18+,7.9,"TV Show",drama,10,CNY,F,1
+2563,39,56,39,"Birth of the Dragon",2017,16-Sep-21,7+,8.4,Movie,"comedy, western",6,CNY,F,1
+3518,40,33,40,"Chhota Bheem",2021,16-Sep-21,13+,7.8,"TV Show",drama,15,CNY,F,1
+5823,41,113,41,"He-Man and the Masters of the Universe",2021,16-Sep-21,7+,7.6,"TV Show",drama,15,CNY,F,1
+3934,42,24,42,Jaws,1975,16-Sep-21,18+,7.6,Movie,drama,6,CNY,T,1
+6982,42,64,42,Jaws,1975,16-Sep-21,18+,7.6,Movie,drama,6,CNY,T,1
+6431,43,69,43,"Jaws 2",1978,16-Sep-21,18+,6,Movie,comedy,6,CNY,T,1
+9733,44,113,44,"Jaws 3",1983,16-Sep-21,18+,8,Movie,comedy,6,CNY,T,1
+5602,45,68,45,"Jaws: The Revenge",1987,16-Sep-21,7+,7.6,Movie,unknown,6,CNY,T,1
+7829,46,20,46,"My Heroes Were Cowboys",2021,16-Sep-21,13+,7.7,Movie,drama,6,CNY,F,1
+1324,47,62,47,"Safe House",2012,16-Sep-21,13+,8,Movie,comedy,6,CNY,F,1
+326,47,47,47,"Safe House",2012,16-Sep-21,13+,8,Movie,comedy,6,CNY,F,1
+7224,47,54,47,"Safe House",2012,16-Sep-21,13+,8,Movie,comedy,6,CNY,F,1
+6999,47,15,47,"Safe House",2012,16-Sep-21,13+,8,Movie,comedy,6,CNY,F,1
+9938,47,106,47,"Safe House",2012,16-Sep-21,13+,8,Movie,comedy,6,CNY,F,1
+6422,47,99,47,"Safe House",2012,16-Sep-21,13+,8,Movie,comedy,6,CNY,F,1
+3182,47,26,47,"Safe House",2012,16-Sep-21,13+,8,Movie,comedy,6,CNY,F,1
+7300,54,16,54,"inuyasha the movie 4: fire on the mystic island",2004,15-Sep-21,7+,5.4,Movie,comedy,6,CNY,T,1
+10424,55,85,55,"inuyasha the movie: affections touching across time",2001,15-Sep-21,all,5.8,Movie,"action adventure",6,CNY,T,1
+8727,56,22,56,"nailed it",2021,15-Sep-21,13+,7.8,"TV Show",drama,10,CNY,F,1
+2798,57,90,57,"naruto shippuden the movie: blood prison",2011,15-Sep-21,13+,7.8,Movie,"western drama",6,CNY,T,1
+1030,58,31,58,"naruto shipp_den the movie: bonds",2008,15-Sep-21,,8.2,Movie,drama,6,CNY,T,1
+2176,59,85,59,"naruto shipp_den the movie: the will of fire",2009,15-Sep-21,18+,7.1,Movie,drama,6,CNY,T,1
+9265,59,73,59,"naruto shipp_den the movie: the will of fire",2009,15-Sep-21,18+,7.1,Movie,drama,6,CNY,T,1
+8867,59,111,59,"naruto shipp_den the movie: the will of fire",2009,15-Sep-21,18+,7.1,Movie,drama,6,CNY,T,1
+8932,59,119,59,"naruto shipp_den the movie: the will of fire",2009,15-Sep-21,18+,7.1,Movie,drama,6,CNY,T,1
+10236,59,13,59,"naruto shipp_den the movie: the will of fire",2009,15-Sep-21,18+,7.1,Movie,drama,6,CNY,T,1
+6340,63,22,63,"naruto the movie 3: guardians of the crescent moon kingdom",2006,15-Sep-21,7+,7.4,Movie,"short comedy",6,CNY,T,1
+2125,64,109,64,"naruto the movie: ninja clash in the land of snow",2004,15-Sep-21,13+,6.2,Movie,unknown,6,CNY,T,1
+8180,64,17,64,"naruto the movie: ninja clash in the land of snow",2004,15-Sep-21,13+,6.2,Movie,unknown,6,CNY,T,1
+2569,64,13,64,"naruto the movie: ninja clash in the land of snow",2004,15-Sep-21,13+,6.2,Movie,unknown,6,CNY,T,1
+10089,64,36,64,"naruto the movie: ninja clash in the land of snow",2004,15-Sep-21,13+,6.2,Movie,unknown,6,CNY,T,1
+2227,65,23,65,nightbooks,2021,15-Sep-21,18+,7.7,Movie,comedy_drama,6,CNY,F,1
+10992,66,63,66,numberblocks,2021,15-Sep-21,13+,7.2,"TV Show",drama,10,CNY,F,1
+4200,66,109,66,numberblocks,2021,15-Sep-21,13+,7.2,"TV Show",drama,10,CNY,F,1
+9396,66,79,66,numberblocks,2021,15-Sep-21,13+,7.2,"TV Show",drama,10,CNY,F,1
+5304,66,60,66,numberblocks,2021,15-Sep-21,13+,7.2,"TV Show",drama,10,CNY,F,1
+309,68,47,68,"saved by the bell",1994,15-Sep-21,13+,7,"TV Show",drama,10,CNY,F,1
+3406,69,25,69,schumacher,2021,15-Sep-21,18+,7.4,Movie,"short comedy",6,CNY,F,1
+2661,70,99,70,"stories by rabindranath tagore",2015,15-Sep-21,18+,8.1,"TV Show",drama,10,CNY,F,1
+3153,71,29,71,"too hot to handle: latino",2021,15-Sep-21,7+,3.6,"TV Show",unknown,10,CNY,F,1
+10264,71,83,71,"too hot to handle: latino",2021,15-Sep-21,7+,3.6,"TV Show",unknown,10,CNY,F,1
+1184,71,63,71,"too hot to handle: latino",2021,15-Sep-21,7+,3.6,"TV Show",unknown,10,CNY,F,1
+4200,71,73,71,"too hot to handle: latino",2021,15-Sep-21,7+,3.6,"TV Show",unknown,10,CNY,F,1
+9396,71,31,71,"too hot to handle: latino",2021,15-Sep-21,7+,3.6,"TV Show",unknown,10,CNY,F,1
+2387,71,77,71,"too hot to handle: latino",2021,15-Sep-21,7+,3.6,"TV Show",unknown,10,CNY,F,1
+6690,76,53,76,"you vs. wild: out cold",2021,14-Sep-21,18+,3.7,Movie,drama,6,CNY,F,1
+1225,76,94,76,"you vs. wild: out cold",2021,14-Sep-21,18+,3.7,Movie,drama,6,CNY,F,1
+9703,77,91,77,"Yowamushi Pedal",2013,14-Sep-21,18+,7.6,"TV Show",drama,10,CNY,F,1
+291,78,25,78,"Little Singham - Black Shadow",2021,11-Sep-21,13+,7.6,Movie,drama,6,CNY,F,1
+4557,79,21,79,"Tughlaq Durbar",2020,11-Sep-21,13+,3.5,Movie,"crime drama",6,CNY,F,1
+2379,80,96,80,"Tughlaq Durbar (Telugu)",2021,11-Sep-21,18+,7.3,Movie,drama,6,CNY,F,1
+5726,81,111,81,"Firedrake the Silver Dragon",2021,10-Sep-21,13+,6.4,Movie,comedy,6,CNY,F,1
+3066,82,28,82,Kate,2021,10-Sep-21,7+,8.1,Movie,"crime drama",6,CNY,F,1
+6336,83,78,83,Lucifer,2021,10-Sep-21,18+,7.5,"TV Show",western,10,CNY,F,1
+10967,84,99,84,"Metal Shop Masters",2021,10-Sep-21,18+,7.2,"TV Show",comedy,10,CNY,F,1
+2304,84,71,84,"Metal Shop Masters",2021,10-Sep-21,18+,7.2,"TV Show",comedy,10,CNY,F,1
+3445,84,17,84,"Metal Shop Masters",2021,10-Sep-21,18+,7.2,"TV Show",comedy,10,CNY,F,1
+7828,84,45,84,"Metal Shop Masters",2021,10-Sep-21,18+,7.2,"TV Show",comedy,10,CNY,F,1

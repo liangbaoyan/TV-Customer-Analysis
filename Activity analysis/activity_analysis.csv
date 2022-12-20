@@ -1,0 +1,256 @@
+Customer_ID,Product_Id,Video_Time_Occuption,Activity_date,Customer_ID,Year_Birth,Education,Marital_Status,Income,Kidhome,Teenhome,Dt_Customer,ZIP_code,Gender,Product_ID,Title,Year,ReleaseDateTime,Age,Douban_rating,Type,SubType,Price,Currency,Is_Series
+5524,1,88,25-Sep-21,5524,1957,Graduation,Single,58138,0,0,2012-04-09,528400,F,1,"Dick johnson is dead",2020,2021-09-25,13+,8.8,Movie,comedy,0,CNY,F
+2174,1,110,26-Sep-21,2174,1954,Graduation,Single,46344,1,1,2014-08-03,528400,M,1,"Dick johnson is dead",2020,2021-09-25,13+,8.8,Movie,comedy,0,CNY,F
+4141,1,80,27-Sep-21,4141,1965,Graduation,Together,71613,0,0,2013-08-21,528400,F,1,"Dick johnson is dead",2020,2021-09-25,13+,8.8,Movie,comedy,0,CNY,F
+6182,1,107,28-Sep-21,6182,1984,Graduation,Together,26646,1,0,2014-10-02,528403,M,1,"Dick johnson is dead",2020,2021-09-25,13+,8.8,Movie,comedy,0,CNY,F
+5324,1,74,29-Sep-21,5324,1981,PhD,Married,58293,1,0,2014-01-19,528400,M,1,"Dick johnson is dead",2020,2021-09-25,13+,8.8,Movie,comedy,0,CNY,F
+7446,1,32,29-Sep-21,7446,1967,Master,Together,62513,0,1,2013-09-09,528462,F,1,"Dick johnson is dead",2020,2021-09-25,13+,8.8,Movie,comedy,0,CNY,F
+965,1,87,1-Oct-21,965,1971,Graduation,Divorced,55635,0,1,2012-11-13,528402,M,1,"Dick johnson is dead",2020,2021-09-25,13+,8.8,Movie,comedy,0,CNY,F
+6177,8,59,24-Sep-21,6177,1985,PhD,Married,33454,1,0,2013-08-05,528400,F,8,Sankofa,1993,2021-09-24,18+,8.4,Movie,"documentary drama",0,CNY,F
+4855,8,86,24-Sep-21,4855,1974,PhD,Together,30351,1,0,2013-06-06,528400,M,8,Sankofa,1993,2021-09-24,18+,8.4,Movie,"documentary drama",0,CNY,F
+5899,8,57,26-Sep-21,5899,1950,PhD,Together,5648,1,1,2014-03-13,528403,M,8,Sankofa,1993,2021-09-24,18+,8.4,Movie,"documentary drama",0,CNY,F
+387,8,58,28-Sep-21,387,1976,Basic,Married,7500,0,0,2012-11-13,528400,M,8,Sankofa,1993,2021-09-24,18+,8.4,Movie,"documentary drama",0,CNY,F
+2125,8,107,29-Sep-21,2125,1959,Graduation,Divorced,63033,0,0,2013-11-15,528402,M,8,Sankofa,1993,2021-09-24,18+,8.4,Movie,"documentary drama",0,CNY,F
+2125,64,61,15-Sep-21,2125,1959,Graduation,Divorced,63033,0,0,2013-11-15,528402,M,64,"Naruto the movie: ninja clash in the land of snow",2004,2021-09-15,13+,6.2,Movie,unknown,6,CNY,T
+8180,8,102,30-Sep-21,8180,1952,Master,Divorced,59354,1,1,2013-11-15,528400,M,8,Sankofa,1993,2021-09-24,18+,8.4,Movie,"documentary drama",0,CNY,F
+8180,64,71,18-Sep-21,8180,1952,Master,Divorced,59354,1,1,2013-11-15,528400,M,64,"Naruto the movie: ninja clash in the land of snow",2004,2021-09-15,13+,6.2,Movie,unknown,6,CNY,T
+2569,8,26,1-Oct-21,2569,1987,Graduation,Married,17323,0,0,2012-10-10,528403,M,8,Sankofa,1993,2021-09-24,18+,8.4,Movie,"documentary drama",0,CNY,F
+2569,64,34,22-Sep-21,2569,1987,Graduation,Married,17323,0,0,2012-10-10,528403,M,64,"Naruto the movie: ninja clash in the land of snow",2004,2021-09-15,13+,6.2,Movie,unknown,6,CNY,T
+2114,19,77,22-Sep-21,2114,1946,PhD,Single,82800,0,0,2012-11-24,528400,M,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+9736,19,21,23-Sep-21,9736,1980,Graduation,Married,41850,1,1,2012-12-24,528400,M,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+4939,19,71,24-Sep-21,4939,1946,Graduation,Together,37760,0,0,2012-08-31,528402,M,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+6565,19,41,25-Sep-21,6565,1949,Master,Married,76995,0,1,2013-03-28,528402,M,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+2278,19,89,26-Sep-21,2278,1985,"2n Cycle",Single,33812,1,0,2012-03-11,528402,M,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+9360,19,118,27-Sep-21,9360,1982,Graduation,Married,37040,0,0,2012-08-08,528400,F,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+8430,15,86,9-Sep-21,8430,1957,Graduation,Together,21994,0,1,2012-12-24,528400,M,15,"Crime stories: india detectives",2021,2021-09-22,7+,4.5,"TV Show",comedy,10,CNY,F
+2139,15,63,23-Sep-21,2139,1975,Master,Married,7500,1,0,2013-02-10,528400,M,15,"Crime stories: india detectives",2021,2021-09-22,7+,4.5,"TV Show",comedy,10,CNY,F
+1371,19,43,28-Sep-21,1371,1976,Graduation,Single,79941,0,0,2014-06-28,528400,M,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+1371,15,30,24-Sep-21,1371,1976,Graduation,Single,79941,0,0,2014-06-28,528400,M,15,"Crime stories: india detectives",2021,2021-09-22,7+,4.5,"TV Show",comedy,10,CNY,F
+9909,19,55,29-Sep-21,9909,1996,"2n Cycle",Married,7500,0,0,2012-09-11,528400,M,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+9909,15,111,25-Sep-21,9909,1996,"2n Cycle",Married,7500,0,0,2012-09-11,528400,M,15,"Crime stories: india detectives",2021,2021-09-22,7+,4.5,"TV Show",comedy,10,CNY,F
+7286,19,25,30-Sep-21,7286,1968,Graduation,Together,41728,1,0,2013-05-24,528403,M,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+7286,15,94,25-Sep-21,7286,1968,Graduation,Together,41728,1,0,2013-05-24,528403,M,15,"Crime stories: india detectives",2021,2021-09-22,7+,4.5,"TV Show",comedy,10,CNY,F
+6566,19,118,2-Oct-21,6566,1954,PhD,Married,72550,1,1,2012-08-11,528400,M,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+6566,15,85,25-Sep-21,6566,1954,PhD,Married,72550,1,1,2012-08-11,528400,M,15,"Crime stories: india detectives",2021,2021-09-22,7+,4.5,"TV Show",comedy,10,CNY,F
+8614,19,46,3-Oct-21,8614,1957,Graduation,Widow,65486,0,1,2014-12-05,528403,F,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+8614,15,93,25-Sep-21,8614,1957,Graduation,Widow,65486,0,1,2014-12-05,528403,F,15,"Crime stories: india detectives",2021,2021-09-22,7+,4.5,"TV Show",comedy,10,CNY,F
+4114,97,109,7-Sep-21,4114,1964,Master,Married,79143,0,0,2012-11-08,528400,M,97,"If i leave here tomorrow: a film about lynyrd skynyrd",2018,2021-09-07,18+,6.9,Movie,comedy,0,CNY,F
+4114,23,31,18-Sep-21,4114,1964,Master,Married,79143,0,0,2012-11-08,528400,M,23,"Avvai shanmughi",1996,2021-09-21,18+,8,Movie,comedy,6,CNY,F
+1331,97,45,8-Sep-21,1331,1977,Graduation,Single,35790,1,0,2013-02-01,528400,M,97,"If i leave here tomorrow: a film about lynyrd skynyrd",2018,2021-09-07,18+,6.9,Movie,comedy,0,CNY,F
+1331,23,119,19-Sep-21,1331,1977,Graduation,Single,35790,1,0,2013-02-01,528400,M,23,"Avvai shanmughi",1996,2021-09-21,18+,8,Movie,comedy,6,CNY,F
+2225,97,26,9-Sep-21,2225,1977,Graduation,Divorced,82582,0,0,2014-07-06,528400,M,97,"If i leave here tomorrow: a film about lynyrd skynyrd",2018,2021-09-07,18+,6.9,Movie,comedy,0,CNY,F
+2225,24,112,20-Sep-21,2225,1977,Graduation,Divorced,82582,0,0,2014-07-06,528400,M,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
+9381,97,119,10-Sep-21,9381,1978,Graduation,Married,66373,1,1,2013-12-06,528400,M,97,"If i leave here tomorrow: a film about lynyrd skynyrd",2018,2021-09-07,18+,6.9,Movie,comedy,0,CNY,F
+9381,24,98,21-Sep-21,9381,1978,Graduation,Married,66373,1,1,2013-12-06,528400,M,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
+6260,97,89,11-Sep-21,6260,1955,Master,Together,82384,0,0,2012-11-19,528462,M,97,"If i leave here tomorrow: a film about lynyrd skynyrd",2018,2021-09-07,18+,6.9,Movie,comedy,0,CNY,F
+6260,24,80,22-Sep-21,6260,1955,Master,Together,82384,0,0,2012-11-19,528462,M,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
+10383,97,104,12-Sep-21,10383,1966,Graduation,Divorced,70287,0,0,2013-02-04,528400,M,97,"If i leave here tomorrow: a film about lynyrd skynyrd",2018,2021-09-07,18+,6.9,Movie,comedy,0,CNY,F
+10383,24,81,23-Sep-21,10383,1966,Graduation,Divorced,70287,0,0,2013-02-04,528400,M,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
+7437,97,117,13-Sep-21,7437,1988,Graduation,Single,27938,1,0,2014-04-28,528400,M,97,"If i leave here tomorrow: a film about lynyrd skynyrd",2018,2021-09-07,18+,6.9,Movie,comedy,0,CNY,F
+7437,24,86,24-Sep-21,7437,1988,Graduation,Single,27938,1,0,2014-04-28,528400,M,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
+8375,27,114,15-Sep-21,8375,1968,PhD,Married,55954,0,1,2014-03-03,528400,M,27,"Minsara kanavu",1997,2021-09-21,18+,7.2,Movie,unknown,0,CNY,F
+8375,24,96,25-Sep-21,8375,1968,PhD,Married,55954,0,1,2014-03-03,528400,M,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
+6853,28,67,16-Sep-21,6853,1982,Master,Single,75777,0,0,2013-04-07,528400,M,28,"Grown ups",2010,2021-09-20,18+,6.9,Movie,comedy,0,CNY,F
+6853,24,112,25-Sep-21,6853,1982,Master,Single,75777,0,0,2013-04-07,528400,M,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
+3076,60,26,17-Sep-21,3076,1975,Graduation,Together,66653,1,1,2012-07-09,528400,M,60,"Naruto shippuden: the movie",2007,2021-09-15,7+,6.5,Movie,drama,0,CNY,T
+3076,24,76,25-Sep-21,3076,1975,Graduation,Together,66653,1,1,2012-07-09,528400,M,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
+1012,61,89,18-Sep-21,1012,1952,Graduation,Single,61823,0,1,2013-02-18,528400,M,61,"Naruto shippuden: the movie: the lost tower",2010,2021-09-15,13+,7.1,Movie,drama,0,CNY,T
+1012,24,43,25-Sep-21,1012,1952,Graduation,Single,61823,0,1,2013-02-18,528400,M,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
+6518,62,10,19-Sep-21,6518,1951,PhD,Widow,67680,0,1,2013-11-06,528400,F,62,"Naruto the movie 2: legend of the stone of gelel",2005,2021-09-15,13+,7.7,Movie,"short comedy",0,CNY,T
+6518,24,75,26-Sep-21,6518,1951,PhD,Widow,67680,0,1,2013-11-06,528400,F,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
+4137,72,80,20-Sep-21,4137,1948,Graduation,Together,70666,0,0,2013-06-12,528402,F,72,"A storybots space adventure",2021,2021-09-14,18+,7.6,Movie,comedy,0,CNY,F
+4137,24,119,27-Sep-21,4137,1948,Graduation,Together,70666,0,0,2013-06-12,528402,F,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
+8082,74,115,21-Sep-21,8082,1971,Graduation,Married,25721,1,0,2013-05-21,528400,M,74,"King of boys",2018,2021-09-14,18+,7.8,Movie,"romantic drama",0,CNY,F
+8082,34,34,28-Sep-21,8082,1971,Graduation,Married,25721,1,0,2013-05-21,528400,M,34,"Squid game",2021,2021-09-17,7+,7.6,"TV Show",unknown,10,CNY,F
+1386,89,82,22-Sep-21,1386,1967,Graduation,Together,32474,1,1,2014-11-05,528400,M,89,"Blood brothers: malcolm x & muhammad ali",2021,2021-09-09,13+,5.1,Movie,comedy,0,CNY,F
+1386,35,115,29-Sep-21,1386,1967,Graduation,Together,32474,1,1,2014-11-05,528400,M,35,"Tayo and little wizards",2020,2021-09-17,7+,8.4,"TV Show",historical,10,CNY,F
+9369,91,97,23-Sep-21,9369,1979,"2n Cycle",Single,88194,0,1,2014-03-19,528400,M,91,"Paradise hills",2019,2021-09-09,18+,7.3,Movie,western,0,CNY,F
+4477,92,47,24-Sep-21,4477,1958,Graduation,Together,69096,0,1,2013-09-27,528402,M,92,"The women and the murderer",2021,2021-09-09,all,7.3,Movie,drama,0,CNY,F
+1357,2,66,24-Sep-21,1357,1970,Graduation,Together,74854,1,2,2013-08-04,528400,M,2,"Blood & water",2021,2021-09-24,18+,8.7,"TV Show",comedy,0,CNY,F
+1402,2,106,25-Sep-21,1402,1954,Master,Married,66991,0,0,2012-11-09,528400,M,2,"Blood & water",2021,2021-09-24,18+,8.7,"TV Show",comedy,0,CNY,F
+6312,2,56,27-Sep-21,6312,1959,Graduation,Married,65031,0,1,2013-03-17,528400,M,2,"Blood & water",2021,2021-09-24,18+,8.7,"TV Show",comedy,0,CNY,F
+8132,2,36,28-Sep-21,8132,1975,PhD,Married,60631,1,1,2013-05-04,528402,M,2,"Blood & water",2021,2021-09-24,18+,8.7,"TV Show",comedy,0,CNY,F
+1050,3,52,24-Sep-21,1050,1952,Graduation,Married,28332,0,0,2014-04-30,528400,M,3,Ganglands,2021,2021-09-24,13+,8.5,"TV Show",drama,0,CNY,F
+5846,3,64,25-Sep-21,5846,1977,Graduation,Divorced,40246,1,0,2012-12-19,528400,M,3,Ganglands,2021,2021-09-24,13+,8.5,"TV Show",drama,0,CNY,F
+1859,3,112,25-Sep-21,1859,1972,Master,Married,75251,0,0,2012-08-27,528400,M,3,Ganglands,2021,2021-09-24,13+,8.5,"TV Show",drama,0,CNY,F
+7503,3,48,27-Sep-21,7503,1976,Graduation,Single,75825,0,0,2012-12-10,528400,M,3,Ganglands,2021,2021-09-24,13+,8.5,"TV Show",drama,0,CNY,F
+10401,3,82,28-Sep-21,10401,1976,"2n Cycle",Together,26326,0,0,2013-04-09,528400,M,3,Ganglands,2021,2021-09-24,13+,8.5,"TV Show",drama,0,CNY,F
+1618,3,118,29-Sep-21,1618,1965,Graduation,Together,56046,0,0,2013-02-01,528462,M,3,Ganglands,2021,2021-09-24,13+,8.5,"TV Show",drama,0,CNY,F
+3332,3,98,30-Sep-21,3332,1985,Graduation,Single,29760,1,0,2012-08-29,528400,M,3,Ganglands,2021,2021-09-24,13+,8.5,"TV Show",drama,0,CNY,F
+2261,4,106,24-Sep-21,2261,1969,Graduation,Married,26304,1,0,2013-06-23,528400,M,4,"Jailbirds new orleans",2021,2021-09-24,7+,8.5,"TV Show",unknown,0,CNY,F
+5346,4,36,24-Sep-21,5346,1973,"2n Cycle",Married,23559,1,0,2013-03-07,528400,M,4,"Jailbirds new orleans",2021,2021-09-24,7+,8.5,"TV Show",unknown,0,CNY,F
+535,4,24,27-Sep-21,535,1987,Graduation,Divorced,81361,0,0,2014-02-25,528400,M,4,"Jailbirds new orleans",2021,2021-09-24,7+,8.5,"TV Show",unknown,0,CNY,F
+5268,4,96,28-Sep-21,5268,1960,Graduation,Married,29440,1,1,2013-11-08,528462,M,4,"Jailbirds new orleans",2021,2021-09-24,7+,8.5,"TV Show",unknown,0,CNY,F
+273,4,36,29-Sep-21,273,1970,Master,Married,36138,1,1,2013-07-16,528400,M,4,"Jailbirds new orleans",2021,2021-09-24,7+,8.5,"TV Show",unknown,0,CNY,F
+4452,5,63,24-Sep-21,4452,1957,Graduation,Single,50388,0,1,2014-05-28,528400,M,5,"Kota factory",2021,2021-09-24,18+,2,"TV Show",unknown,0,CNY,F
+8504,5,45,25-Sep-21,8504,1973,Graduation,Married,79593,0,0,2014-12-05,528400,M,5,"Kota factory",2021,2021-09-24,18+,2,"TV Show",unknown,0,CNY,F
+771,5,112,26-Sep-21,771,1967,Graduation,Together,54178,0,1,2014-01-21,528403,M,5,"Kota factory",2021,2021-09-24,18+,2,"TV Show",unknown,0,CNY,F
+11178,6,45,30-Sep-21,11178,1972,Master,Single,42394,1,0,2014-03-23,528400,M,6,"Midnight mass",2021,2021-09-24,7+,8.4,"TV Show","biographical drama",0,CNY,F
+2230,6,93,1-Oct-21,2230,1970,PhD,Married,23626,1,0,2014-05-24,528403,M,6,"Midnight mass",2021,2021-09-24,7+,8.4,"TV Show","biographical drama",0,CNY,F
+7516,6,15,2-Oct-21,7516,1983,Graduation,Married,30096,1,0,2014-05-22,528400,M,6,"Midnight mass",2021,2021-09-24,7+,8.4,"TV Show","biographical drama",0,CNY,F
+7247,6,97,3-Oct-21,7247,1960,Graduation,Widow,47916,0,1,2012-11-22,528400,M,6,"Midnight mass",2021,2021-09-24,7+,8.4,"TV Show","biographical drama",0,CNY,F
+11100,6,98,4-Oct-21,11100,1972,Graduation,Divorced,51813,1,1,2013-11-04,528400,M,6,"Midnight mass",2021,2021-09-24,7+,8.4,"TV Show","biographical drama",0,CNY,F
+4646,6,49,5-Oct-21,4646,1951,"2n Cycle",Married,78497,0,0,2013-01-12,528400,M,6,"Midnight mass",2021,2021-09-24,7+,8.4,"TV Show","biographical drama",0,CNY,F
+3037,6,77,6-Oct-21,3037,1983,PhD,Married,50150,0,0,2013-06-20,528400,M,6,"Midnight mass",2021,2021-09-24,7+,8.4,"TV Show","biographical drama",0,CNY,F
+1473,7,58,1-Oct-21,1473,1960,"2n Cycle",Single,47823,0,1,2013-07-23,528400,M,7,"My little pony: a new generation",2021,2021-09-24,18+,4,Movie,unknown,0,CNY,F
+1016,7,77,2-Oct-21,1016,1959,PhD,Single,34554,0,1,2014-03-30,528400,M,7,"My little pony: a new generation",2021,2021-09-24,18+,4,Movie,unknown,0,CNY,F
+4518,7,97,3-Oct-21,4518,1979,Graduation,Together,85693,0,1,2013-04-20,528400,M,7,"My little pony: a new generation",2021,2021-09-24,18+,4,Movie,unknown,0,CNY,F
+9370,7,54,4-Oct-21,9370,1945,PhD,Married,65846,0,0,2013-05-17,528400,M,7,"My little pony: a new generation",2021,2021-09-24,18+,4,Movie,unknown,0,CNY,F
+8908,7,47,5-Oct-21,8908,1959,Graduation,Married,87195,0,0,2014-08-05,528400,M,7,"My little pony: a new generation",2021,2021-09-24,18+,4,Movie,unknown,0,CNY,F
+8373,7,22,6-Oct-21,8373,1979,Basic,Together,24594,1,0,2013-10-12,528462,M,7,"My little pony: a new generation",2021,2021-09-24,18+,4,Movie,unknown,0,CNY,F
+7533,7,39,7-Oct-21,7533,1964,Graduation,Married,49096,1,1,2013-09-24,528400,M,7,"My little pony: a new generation",2021,2021-09-24,18+,4,Movie,unknown,0,CNY,F
+2683,7,37,6-Oct-21,2683,1969,Graduation,Married,52413,0,2,2013-02-02,528400,M,7,"My little pony: a new generation",2021,2021-09-24,18+,4,Movie,unknown,0,CNY,F
+3629,9,62,7-Oct-21,3629,1978,Graduation,Single,38557,1,0,2012-12-19,528400,M,9,"The great british baking show",2021,2021-09-24,7+,8.4,"TV Show",comedy,10,CNY,F
+10991,9,10,8-Oct-21,10991,1960,Master,Married,89058,0,0,2012-07-12,528462,M,9,"The great british baking show",2021,2021-09-24,7+,8.4,"TV Show",comedy,10,CNY,F
+5077,9,114,9-Oct-21,5077,1979,Graduation,Together,77298,0,1,2013-02-11,528400,M,9,"The great british baking show",2021,2021-09-24,7+,8.4,"TV Show",comedy,10,CNY,F
+7431,9,73,10-Oct-21,7431,1991,PhD,Single,68126,0,0,2012-10-11,528400,M,9,"The great british baking show",2021,2021-09-24,7+,8.4,"TV Show",comedy,10,CNY,F
+3267,9,72,11-Oct-21,3267,1963,Master,Together,57288,0,1,2014-06-25,528400,M,9,"The great british baking show",2021,2021-09-24,7+,8.4,"TV Show",comedy,10,CNY,F
+999,10,33,12-Oct-21,999,1991,Graduation,Single,86037,0,0,2013-02-01,528400,M,10,"The starling",2021,2021-09-24,18+,6,Movie,comedy,0,CNY,F
+9215,10,93,13-Oct-21,9215,1980,PhD,Married,43974,1,0,2012-12-12,528400,M,10,"The starling",2021,2021-09-24,18+,6,Movie,comedy,0,CNY,F
+2286,10,74,14-Oct-21,2286,1962,Graduation,Single,50785,1,1,2013-10-09,528400,M,10,"The starling",2021,2021-09-24,18+,6,Movie,comedy,0,CNY,F
+1592,10,52,15-Oct-21,1592,1970,Graduation,Married,90765,0,0,2014-01-24,528400,M,10,"The starling",2021,2021-09-24,18+,6,Movie,comedy,0,CNY,F
+367,10,106,16-Oct-21,367,1978,"2n Cycle",Married,36550,1,0,2013-02-19,528400,M,10,"The starling",2021,2021-09-24,18+,6,Movie,comedy,0,CNY,F
+5234,11,43,17-Oct-21,5234,1967,"2n Cycle",Together,30753,1,1,2013-11-07,528403,M,11,"Vendetta: truth, lies and the mafia",2021,2021-09-24,18+,8.3,"TV Show",comedy,0,CNY,F
+9862,11,112,18-Oct-21,9862,1969,Graduation,Together,21918,1,0,2013-11-14,528400,M,11,"Vendetta: truth, lies and the mafia",2021,2021-09-24,18+,8.3,"TV Show",comedy,0,CNY,F
+9805,13,104,19-Oct-21,9805,1953,Master,Together,56129,0,1,2013-06-20,528403,M,13,"Je suis karl",2021,2021-09-23,18+,8.2,Movie,comedy,0,CNY,F
+6205,13,93,20-Oct-21,6205,1967,Master,Single,32557,1,0,2014-02-24,528400,M,13,"Je suis karl",2021,2021-09-23,18+,8.2,Movie,comedy,0,CNY,F
+8442,13,82,21-Oct-21,8442,1985,Master,Married,19510,2,0,2013-04-09,528400,M,13,"Je suis karl",2021,2021-09-23,18+,8.2,Movie,comedy,0,CNY,F
+7386,13,12,22-Oct-21,7386,1976,Graduation,Divorced,30992,1,0,2013-04-22,528403,M,13,"Je suis karl",2021,2021-09-23,18+,8.2,Movie,comedy,0,CNY,F
+7215,13,44,23-Oct-21,7215,1983,Graduation,Single,101970,0,0,2013-12-03,528400,M,13,"Je suis karl",2021,2021-09-23,18+,8.2,Movie,comedy,0,CNY,F
+1491,13,107,24-Oct-21,1491,1965,"2n Cycle",Together,71488,0,0,2013-02-18,528400,M,13,"Je suis karl",2021,2021-09-23,18+,8.2,Movie,comedy,0,CNY,F
+11071,12,25,25-Oct-21,11071,1984,Graduation,Single,79607,0,0,2013-04-21,528400,M,12,"Bangkok breaking",2021,2021-09-23,13+,5.5,"TV Show",comedy,0,CNY,F
+3381,12,58,26-Oct-21,3381,1953,Master,Married,54348,1,1,2014-08-06,528403,M,12,"Bangkok breaking",2021,2021-09-23,13+,5.5,"TV Show",comedy,0,CNY,F
+11051,14,38,28-Oct-21,11051,1956,PhD,Together,77376,1,1,2014-10-05,528400,M,14,"Confessions of an invisible girl",2021,2021-09-22,18+,8.1,Movie,comedy,0,CNY,F
+8026,14,36,29-Oct-21,8026,1952,Graduation,Married,62998,0,1,2013-09-30,528414,M,14,"Confessions of an invisible girl",2021,2021-09-22,18+,8.1,Movie,comedy,0,CNY,F
+433,14,116,30-Oct-21,433,1958,Master,Alone,61331,1,1,2013-10-03,528400,M,14,"Confessions of an invisible girl",2021,2021-09-22,18+,8.1,Movie,comedy,0,CNY,F
+9597,14,63,31-Oct-21,9597,1969,Graduation,Married,73448,0,0,2014-10-02,528400,M,14,"Confessions of an invisible girl",2021,2021-09-22,18+,8.1,Movie,comedy,0,CNY,F
+5290,14,29,2-Nov-21,5290,1964,PhD,Married,41551,1,1,2013-08-14,528414,M,14,"Confessions of an invisible girl",2021,2021-09-22,18+,8.1,Movie,comedy,0,CNY,F
+1685,14,33,3-Nov-21,1685,1967,PhD,Together,62981,0,0,2013-03-17,528400,M,14,"Confessions of an invisible girl",2021,2021-09-22,18+,8.1,Movie,comedy,0,CNY,F
+5342,17,98,4-Nov-21,5342,1976,Basic,Divorced,9548,1,0,2012-08-08,528400,M,17,"Europe's most dangerous man: otto skorzeny in spain",2020,2021-09-22,13+,8.2,Movie,fantasy,0,CNY,F
+9579,17,30,5-Nov-21,9579,1959,PhD,Married,33762,2,1,2013-07-07,528400,M,17,"Europe's most dangerous man: otto skorzeny in spain",2020,2021-09-22,13+,8.2,Movie,fantasy,0,CNY,F
+7660,17,11,6-Nov-21,7660,1973,PhD,Alone,35860,1,1,2014-05-19,528400,M,17,"Europe's most dangerous man: otto skorzeny in spain",2020,2021-09-22,13+,8.2,Movie,fantasy,0,CNY,F
+1461,17,100,7-Nov-21,1461,1965,PhD,Divorced,36921,1,1,2013-07-28,528414,M,17,"Europe's most dangerous man: otto skorzeny in spain",2020,2021-09-22,13+,8.2,Movie,fantasy,0,CNY,F
+821,25,66,8-Nov-21,821,1992,Master,Single,92859,0,0,2012-10-19,528400,M,25,Jeans,1998,2021-09-21,18+,6.1,Movie,drama,0,CNY,F
+11084,27,100,9-Nov-21,11084,1976,Master,Together,65104,0,1,2013-11-14,528400,M,27,"Minsara kanavu",1997,2021-09-21,18+,7.2,Movie,unknown,0,CNY,F
+8690,28,27,10-Nov-21,8690,1962,Graduation,Married,86111,0,0,2013-04-19,528400,M,28,"Grown ups",2010,2021-09-20,18+,6.9,Movie,comedy,0,CNY,F
+2937,25,19,11-Nov-21,2937,1974,PhD,Single,68352,0,1,2013-08-28,528400,M,25,Jeans,1998,2021-09-21,18+,6.1,Movie,drama,0,CNY,F
+9701,27,65,12-Nov-21,9701,1988,Graduation,Together,41883,1,0,2013-03-19,528400,M,27,"Minsara kanavu",1997,2021-09-21,18+,7.2,Movie,unknown,0,CNY,F
+9949,28,35,13-Nov-21,9949,1976,Graduation,Married,59809,0,2,2012-10-18,528400,M,28,"Grown ups",2010,2021-09-20,18+,6.9,Movie,comedy,0,CNY,F
+10837,60,67,14-Nov-21,10837,1975,Graduation,Married,23957,1,0,2012-10-28,528400,M,60,"Naruto shippuden: the movie",2007,2021-09-15,7+,6.5,Movie,drama,0,CNY,T
+3120,25,112,15-Nov-21,3120,1981,Graduation,Together,38547,1,0,2013-08-28,528403,M,25,Jeans,1998,2021-09-21,18+,6.1,Movie,drama,0,CNY,F
+5885,27,81,16-Nov-21,5885,1973,"2n Cycle",Married,35688,2,1,2012-08-22,528400,M,27,"Minsara kanavu",1997,2021-09-21,18+,7.2,Movie,unknown,0,CNY,F
+4050,28,66,17-Nov-21,4050,1966,Master,Married,49605,0,0,2014-06-21,528400,M,28,"Grown ups",2010,2021-09-20,18+,6.9,Movie,comedy,0,CNY,F
+3830,25,83,18-Nov-21,3830,1953,Master,Married,59354,0,2,2014-04-24,528400,M,25,Jeans,1998,2021-09-21,18+,6.1,Movie,drama,0,CNY,F
+7987,27,35,19-Nov-21,7987,1969,Graduation,Married,65747,0,1,2014-07-03,528400,M,27,"Minsara kanavu",1997,2021-09-21,18+,7.2,Movie,unknown,0,CNY,F
+7798,28,64,20-Nov-21,7798,1972,"2n Cycle",Together,46344,0,1,2012-12-14,528400,F,28,"Grown ups",2010,2021-09-20,18+,6.9,Movie,comedy,0,CNY,F
+92,60,59,21-Nov-21,92,1988,Graduation,Alone,34176,1,0,2014-12-05,528403,M,60,"Naruto shippuden: the movie",2007,2021-09-15,7+,6.5,Movie,drama,0,CNY,T
+7055,61,26,22-Nov-21,7055,1952,PhD,Together,61010,0,1,2012-09-10,528400,M,61,"Naruto shippuden: the movie: the lost tower",2010,2021-09-15,13+,7.1,Movie,drama,0,CNY,T
+10240,62,103,23-Nov-21,10240,1949,Graduation,Together,69372,0,0,2013-02-19,528400,M,62,"Naruto the movie 2: legend of the stone of gelel",2005,2021-09-15,13+,7.7,Movie,"short comedy",0,CNY,T
+3025,25,13,24-Nov-21,3025,1958,Graduation,Single,49967,0,1,2013-08-07,528400,M,25,Jeans,1998,2021-09-21,18+,6.1,Movie,drama,0,CNY,F
+9283,27,98,25-Nov-21,9283,1978,Graduation,Single,60199,1,2,2013-12-09,528414,M,27,"Minsara kanavu",1997,2021-09-21,18+,7.2,Movie,unknown,0,CNY,F
+9970,28,27,26-Nov-21,9970,1977,Graduation,Together,55375,0,1,2013-10-17,528400,F,28,"Grown ups",2010,2021-09-20,18+,6.9,Movie,comedy,0,CNY,F
+2730,60,76,27-Nov-21,2730,1955,Graduation,Single,80317,0,0,2013-08-20,528414,M,60,"Naruto shippuden: the movie",2007,2021-09-15,7+,6.5,Movie,drama,0,CNY,T
+10573,61,57,27-Nov-21,10573,1953,Graduation,Divorced,62551,0,0,2013-11-18,528400,M,61,"Naruto shippuden: the movie: the lost tower",2010,2021-09-15,13+,7.1,Movie,drama,0,CNY,T
+3712,25,116,27-Nov-21,3712,1959,Graduation,Divorced,52332,0,0,2013-08-28,528414,F,25,Jeans,1998,2021-09-21,18+,6.1,Movie,drama,0,CNY,F
+6637,27,22,27-Nov-21,6637,1988,Graduation,Single,66951,0,0,2013-02-11,528400,M,27,"Minsara kanavu",1997,2021-09-21,18+,7.2,Movie,unknown,0,CNY,F
+3152,28,85,27-Nov-21,3152,1957,Graduation,Together,26091,1,1,2014-02-25,528400,F,28,"Grown ups",2010,2021-09-20,18+,6.9,Movie,comedy,0,CNY,F
+5610,60,48,27-Nov-21,5610,1965,Graduation,Together,33456,1,1,2014-04-21,528403,F,60,"Naruto shippuden: the movie",2007,2021-09-15,7+,6.5,Movie,drama,0,CNY,T
+6460,61,99,28-Nov-21,6460,1982,Graduation,Married,28718,1,0,2013-07-13,528400,M,61,"Naruto shippuden: the movie: the lost tower",2010,2021-09-15,13+,7.1,Movie,drama,0,CNY,T
+1349,25,68,29-Nov-21,1349,1970,Graduation,Married,50447,2,0,2014-04-21,528400,F,25,Jeans,1998,2021-09-21,18+,6.1,Movie,drama,0,CNY,F
+1880,27,45,30-Nov-21,1880,1959,PhD,Together,53537,1,1,2014-01-30,528400,F,27,"Minsara kanavu",1997,2021-09-21,18+,7.2,Movie,unknown,0,CNY,F
+641,28,77,1-Dec-21,641,1967,Graduation,Single,52074,0,1,2014-04-04,528400,M,28,"Grown ups",2010,2021-09-20,18+,6.9,Movie,comedy,0,CNY,F
+8717,60,68,2-Dec-21,8717,1975,PhD,Married,80427,0,1,2012-12-09,528400,F,60,"Naruto shippuden: the movie",2007,2021-09-15,7+,6.5,Movie,drama,0,CNY,T
+10314,61,77,3-Dec-21,10314,1948,PhD,Married,83837,0,0,2012-12-16,528400,F,61,"Naruto shippuden: the movie: the lost tower",2010,2021-09-15,13+,7.1,Movie,drama,0,CNY,T
+10854,62,74,4-Dec-21,10854,1970,PhD,Married,38853,1,1,2014-05-23,528403,M,62,"Naruto the movie 2: legend of the stone of gelel",2005,2021-09-15,13+,7.7,Movie,"short comedy",0,CNY,T
+10492,72,110,5-Dec-21,10492,1959,Graduation,Together,38285,2,1,2014-06-24,528400,F,72,"A storybots space adventure",2021,2021-09-14,18+,7.6,Movie,comedy,0,CNY,F
+3559,36,107,30-Sep-21,3559,1988,"2n Cycle",Married,16248,1,0,2014-10-05,528400,F,36,"The father who moves mountains",2021,2021-09-17,7+,4.8,Movie,adventure,6,CNY,F
+10562,37,77,5-Oct-21,10562,1946,Master,Married,66835,0,0,2013-09-28,528400,M,37,"The stronghold",2021,2021-09-17,13+,7.6,Movie,"comedy short",6,CNY,F
+10796,38,28,6-Oct-21,10796,1984,Master,Married,30477,1,0,2014-01-22,528403,F,38,"Angry birds",2018,2021-09-16,18+,7.9,"TV Show",drama,10,CNY,F
+2563,39,49,7-Oct-21,2563,1961,Basic,Married,28249,0,0,2014-06-15,528400,M,39,"Birth of the dragon",2017,2021-09-16,7+,8.4,Movie,"comedy, western",6,CNY,F
+3518,40,80,8-Oct-21,3518,1983,Graduation,Married,25271,1,0,2012-05-12,528400,M,40,"Chhota bheem",2021,2021-09-16,13+,7.8,"TV Show",drama,15,CNY,F
+5823,41,60,9-Oct-21,5823,1970,PhD,Single,32303,0,1,2014-08-03,528400,F,41,"He-man and the masters of the universe",2021,2021-09-16,7+,7.6,"TV Show",drama,15,CNY,F
+3934,42,103,10-Oct-21,3934,1966,Graduation,Married,61286,0,1,2013-02-08,528414,M,42,Jaws,1975,2021-09-16,18+,7.6,Movie,drama,6,CNY,T
+6982,42,34,11-Oct-21,6982,1976,Graduation,Married,74068,0,0,2013-03-19,528400,F,42,Jaws,1975,2021-09-16,18+,7.6,Movie,drama,6,CNY,T
+6431,43,50,12-Oct-21,6431,1964,PhD,Married,45759,1,1,2013-02-23,528400,M,43,"Jaws 2",1978,2021-09-16,18+,6,Movie,comedy,6,CNY,T
+9733,44,17,13-Oct-21,9733,1978,Basic,Together,24882,1,0,2012-09-09,528403,M,44,"Jaws 3",1983,2021-09-16,18+,8,Movie,comedy,6,CNY,T
+5602,45,54,14-Oct-21,5602,1989,PhD,Together,66973,0,0,2013-05-17,528400,M,45,"Jaws: the revenge",1987,2021-09-16,7+,7.6,Movie,unknown,6,CNY,T
+7829,46,80,15-Oct-21,7829,1900,"2n Cycle",Divorced,36640,1,0,2013-09-26,528400,M,46,"My heroes were cowboys",2021,2021-09-16,13+,7.7,Movie,drama,6,CNY,F
+1324,47,69,16-Sep-21,1324,1988,Graduation,Married,38872,1,0,2013-05-30,528414,M,47,"Safe house",2012,2021-09-16,13+,8,Movie,comedy,6,CNY,F
+326,47,43,16-Sep-21,326,1973,Graduation,Married,51148,1,1,2013-02-18,528400,M,47,"Safe house",2012,2021-09-16,13+,8,Movie,comedy,6,CNY,F
+7224,47,56,16-Sep-21,7224,1977,Graduation,Married,31353,1,1,2013-12-29,528400,M,47,"Safe house",2012,2021-09-16,13+,8,Movie,comedy,6,CNY,F
+6999,47,72,16-Sep-21,6999,1980,Master,Married,69661,0,0,2014-05-13,528403,M,47,"Safe house",2012,2021-09-16,13+,8,Movie,comedy,6,CNY,F
+9938,47,105,16-Sep-21,9938,1954,Graduation,Married,80067,0,0,2013-09-19,528400,M,47,"Safe house",2012,2021-09-16,13+,8,Movie,comedy,6,CNY,F
+6422,47,118,16-Sep-21,6422,1954,Graduation,Married,86718,0,0,2013-01-17,528400,M,47,"Safe house",2012,2021-09-16,13+,8,Movie,comedy,6,CNY,F
+3182,47,86,16-Sep-21,3182,1973,PhD,Single,46854,1,1,2014-03-31,528400,M,47,"Safe house",2012,2021-09-16,13+,8,Movie,comedy,6,CNY,F
+7300,54,79,23-Oct-21,7300,1952,Graduation,Divorced,69142,0,1,2014-06-29,528400,M,54,"Inuyasha the movie 4: fire on the mystic island",2004,2021-09-15,7+,5.4,Movie,comedy,6,CNY,T
+10424,55,26,24-Oct-21,10424,1968,Graduation,Single,75922,0,0,2013-09-12,528400,M,55,"Inuyasha the movie: affections touching across time",2001,2021-09-15,all,5.8,Movie,"action adventure",6,CNY,T
+8727,56,10,25-Oct-21,8727,1978,Graduation,Divorced,63693,0,1,2013-10-14,528400,M,56,"Nailed it",2021,2021-09-15,13+,7.8,"TV Show",drama,10,CNY,F
+2798,57,89,26-Oct-21,2798,1977,PhD,Together,102160,0,0,2012-02-11,528400,M,57,"Naruto shippuden the movie: blood prison",2011,2021-09-15,13+,7.8,Movie,"western drama",6,CNY,T
+1030,58,54,27-Oct-21,1030,1965,PhD,Single,40637,1,1,2013-07-17,528400,M,58,"Naruto shipp_den the movie: bonds",2008,2021-09-15,,8.2,Movie,drama,6,CNY,T
+2176,59,75,28-Oct-21,2176,1972,Graduation,Married,80134,1,0,2013-05-20,528403,M,59,"Naruto shipp_den the movie: the will of fire",2009,2021-09-15,18+,7.1,Movie,drama,6,CNY,T
+9265,59,68,17-Sep-21,9265,1953,Graduation,Married,75027,0,1,2013-09-01,528403,M,59,"Naruto shipp_den the movie: the will of fire",2009,2021-09-15,18+,7.1,Movie,drama,6,CNY,T
+8867,59,105,18-Sep-21,8867,1988,PhD,Married,67546,0,0,2012-08-31,528403,M,59,"Naruto shipp_den the movie: the will of fire",2009,2021-09-15,18+,7.1,Movie,drama,6,CNY,T
+8932,59,76,19-Sep-21,8932,1969,Master,Together,65176,0,1,2012-10-29,528400,M,59,"Naruto shipp_den the movie: the will of fire",2009,2021-09-15,18+,7.1,Movie,drama,6,CNY,T
+10236,59,95,20-Sep-21,10236,1975,Master,Single,31160,1,0,2013-09-16,528400,M,59,"Naruto shipp_den the movie: the will of fire",2009,2021-09-15,18+,7.1,Movie,drama,6,CNY,T
+6340,63,49,2-Nov-21,6340,1985,Graduation,Single,29938,1,0,2013-10-27,528400,M,63,"Naruto the movie 3: guardians of the crescent moon kingdom",2006,2021-09-15,7+,7.4,Movie,"short comedy",6,CNY,T
+10089,64,91,3-Nov-21,10089,1974,Graduation,Divorced,102692,0,0,2013-05-04,528402,M,64,"Naruto the movie: ninja clash in the land of snow",2004,2021-09-15,13+,6.2,Movie,unknown,6,CNY,T
+2227,65,59,4-Nov-21,2227,1958,"2n Cycle",Together,26490,0,0,2012-09-22,528400,M,65,Nightbooks,2021,2021-09-15,18+,7.7,Movie,comedy_drama,6,CNY,F
+10992,66,11,15-Sep-21,10992,1967,Graduation,Together,75702,1,1,2012-08-29,528400,M,66,Numberblocks,2021,2021-09-15,13+,7.2,"TV Show",drama,10,CNY,F
+5304,66,72,20-Sep-21,5304,1974,PhD,Single,30899,1,0,2012-10-13,528400,M,66,Numberblocks,2021,2021-09-15,13+,7.2,"TV Show",drama,10,CNY,F
+309,68,31,7-Nov-21,309,1961,PhD,Together,63342,0,1,2012-10-16,528402,M,68,"Saved by the bell",1994,2021-09-15,13+,7,"TV Show",drama,10,CNY,F
+3406,69,49,8-Nov-21,3406,1964,Graduation,Single,45989,0,1,2012-10-22,528414,M,69,Schumacher,2021,2021-09-15,18+,7.4,Movie,"short comedy",6,CNY,F
+2661,70,44,9-Nov-21,2661,1964,Graduation,Single,18701,1,1,2013-04-06,528400,M,70,"Stories by rabindranath tagore",2015,2021-09-15,18+,8.1,"TV Show",drama,10,CNY,F
+3153,71,44,10-Nov-21,3153,1957,PhD,Single,40737,2,1,2013-08-12,528403,M,71,"Too hot to handle: latino",2021,2021-09-15,7+,3.6,"TV Show",unknown,10,CNY,F
+10264,71,62,15-Sep-21,10264,1979,Graduation,Divorced,15287,1,0,2012-10-10,528400,M,71,"Too hot to handle: latino",2021,2021-09-15,7+,3.6,"TV Show",unknown,10,CNY,F
+1184,71,93,16-Sep-21,1184,1968,PhD,Divorced,69674,0,2,2013-05-22,528400,M,71,"Too hot to handle: latino",2021,2021-09-15,7+,3.6,"TV Show",unknown,10,CNY,F
+4200,66,77,15-Sep-21,4200,1970,Master,Married,44159,1,0,2014-06-17,528403,F,66,Numberblocks,2021,2021-09-15,13+,7.2,"TV Show",drama,10,CNY,F
+4200,71,80,17-Sep-21,4200,1970,Master,Married,44159,1,0,2014-06-17,528403,F,71,"Too hot to handle: latino",2021,2021-09-15,7+,3.6,"TV Show",unknown,10,CNY,F
+9396,66,88,17-Sep-21,9396,1978,PhD,Married,37717,1,0,2012-11-23,528400,M,66,Numberblocks,2021,2021-09-15,13+,7.2,"TV Show",drama,10,CNY,F
+9396,71,113,18-Sep-21,9396,1978,PhD,Married,37717,1,0,2012-11-23,528400,M,71,"Too hot to handle: latino",2021,2021-09-15,7+,3.6,"TV Show",unknown,10,CNY,F
+6690,76,37,16-Nov-21,6690,1966,Master,Married,38179,1,1,2013-03-14,528403,M,76,"You vs. wild: out cold",2021,2021-09-14,18+,3.7,Movie,drama,6,CNY,F
+1225,76,36,17-Nov-21,1225,1963,Graduation,Married,80124,0,0,2014-06-26,528400,M,76,"You vs. wild: out cold",2021,2021-09-14,18+,3.7,Movie,drama,6,CNY,F
+9703,77,89,18-Nov-21,9703,1970,PhD,Married,38097,1,1,2012-10-15,528400,F,77,"Yowamushi pedal",2013,2021-09-14,18+,7.6,"TV Show",drama,10,CNY,F
+291,78,27,19-Nov-21,291,1970,Graduation,Married,72940,0,0,2013-06-19,528403,M,78,"Little singham - black shadow",2021,2021-09-11,13+,7.6,Movie,drama,6,CNY,F
+4557,79,31,20-Nov-21,4557,1970,Graduation,Together,22070,1,0,2013-04-10,528400,F,79,"Tughlaq durbar",2020,2021-09-11,13+,3.5,Movie,"crime drama",6,CNY,F
+2379,80,14,21-Nov-21,2379,1953,Graduation,Single,69267,0,0,2012-09-22,528400,M,80,"Tughlaq durbar (telugu)",2021,2021-09-11,18+,7.3,Movie,drama,6,CNY,F
+5726,81,61,22-Nov-21,5726,1983,Master,Single,31788,1,0,2014-03-20,528400,M,81,"Firedrake the silver dragon",2021,2021-09-10,13+,6.4,Movie,comedy,6,CNY,F
+3066,82,49,23-Nov-21,3066,1975,PhD,Together,61905,0,1,2014-04-02,528400,M,82,Kate,2021,2021-09-10,7+,8.1,Movie,"crime drama",6,CNY,F
+6336,83,33,24-Nov-21,6336,1960,Graduation,Married,29315,1,1,2014-06-04,528400,M,83,Lucifer,2021,2021-09-10,18+,7.5,"TV Show",western,10,CNY,F
+10967,84,71,15-Sep-21,10967,1963,Graduation,Divorced,33378,1,1,2013-06-02,528414,M,84,"Metal shop masters",2021,2021-09-10,18+,7.2,"TV Show",comedy,10,CNY,F
+2304,84,18,16-Sep-21,2304,1963,PhD,Together,66313,0,1,2013-09-16,528400,M,84,"Metal shop masters",2021,2021-09-10,18+,7.2,"TV Show",comedy,10,CNY,F
+3445,84,17,17-Sep-21,3445,1956,Graduation,Single,60714,0,0,2013-01-17,528400,M,84,"Metal shop masters",2021,2021-09-10,18+,7.2,"TV Show",comedy,10,CNY,F
+7828,84,30,18-Sep-21,7828,1981,Master,Together,77882,0,0,2014-04-30,528400,M,84,"Metal shop masters",2021,2021-09-10,18+,7.2,"TV Show",comedy,10,CNY,F
+3762,87,18,29-Nov-21,3762,1986,PhD,Single,69867,0,0,2013-02-04,528402,M,87,Prey,2021,2021-09-10,18+,7.6,Movie,historical,6,CNY,F
+4391,95,34,8-Sep-21,4391,1968,Master,Divorced,63841,0,1,2013-04-21,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+4669,95,11,8-Sep-21,4669,1981,Basic,Married,24480,1,0,2013-11-02,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+10144,95,80,8-Sep-21,10144,1976,Graduation,Together,51369,0,1,2012-10-25,528402,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+8652,95,79,8-Sep-21,8652,1946,Graduation,Together,37760,0,0,2012-08-31,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+1672,95,23,8-Sep-21,1672,1974,PhD,Together,65640,0,1,2014-01-03,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+8962,95,95,8-Sep-21,8962,1975,Master,Married,44319,1,1,2014-04-17,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+9974,95,57,9-Sep-21,9974,1974,Graduation,Married,30631,1,0,2013-12-07,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+10983,95,103,9-Sep-21,10983,1952,Graduation,Together,75278,0,0,2013-01-29,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+8148,95,80,9-Sep-21,8148,1956,Master,Together,50898,1,1,2013-08-01,528403,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+10102,95,92,10-Sep-21,10102,1966,Graduation,Widow,79946,0,0,2014-12-05,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+9262,95,54,11-Sep-21,9262,1984,"2n Cycle",Together,32414,0,0,2013-04-07,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+7254,95,98,11-Sep-21,7254,1969,Graduation,Together,38361,1,0,2013-12-27,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+4543,95,58,11-Sep-21,4543,1980,Graduation,Married,82497,0,0,2012-10-31,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+4543,95,52,11-Sep-21,4543,1980,Graduation,Married,82497,0,0,2012-10-31,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+4927,95,38,11-Sep-21,4927,1971,Graduation,Together,16626,2,0,2014-01-15,528400,F,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+4927,95,107,11-Sep-21,4927,1971,Graduation,Together,16626,2,0,2014-01-15,528400,F,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+10451,95,15,11-Sep-21,10451,1965,Graduation,Together,29672,1,1,2013-12-03,528403,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+2926,95,40,11-Sep-21,2926,1952,Master,Together,55951,0,1,2012-08-23,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+2926,95,75,11-Sep-21,2926,1952,Master,Together,55951,0,1,2012-08-23,528400,M,95,"Show dogs",2018,2021-09-08,18+,7.7,Movie,comedy,6,CNY,F
+1994,8,97,27-Sep-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,8,Sankofa,1993,2021-09-24,18+,8.4,Movie,"documentary drama",0,CNY,F
+7244,19,105,1-Oct-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,19,Intrusion,2021,2021-09-22,18+,8,Movie,"adventure serial",0,CNY,F
+8557,25,84,14-Sep-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,25,Jeans,1998,2021-09-21,18+,6.1,Movie,drama,0,CNY,F
+10629,2,45,26-Sep-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2,"Blood & water",2021,2021-09-24,18+,8.7,"TV Show",comedy,0,CNY,F
+4119,4,74,24-Sep-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,4,"Jailbirds new orleans",2021,2021-09-24,7+,8.5,"TV Show",unknown,0,CNY,F
+8996,5,42,27-Sep-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5,"Kota factory",2021,2021-09-24,18+,2,"TV Show",unknown,0,CNY,F
+9235,5,32,28-Sep-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,5,"Kota factory",2021,2021-09-24,18+,2,"TV Show",unknown,0,CNY,F
+5798,6,113,29-Sep-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,6,"Midnight mass",2021,2021-09-24,7+,8.4,"TV Show","biographical drama",0,CNY,F
+8268,14,63,27-Oct-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,14,"Confessions of an invisible girl",2021,2021-09-22,18+,8.1,Movie,comedy,0,CNY,F
+1295,14,37,1-Nov-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,14,"Confessions of an invisible girl",2021,2021-09-22,18+,8.1,Movie,comedy,0,CNY,F
+6935,74,29,6-Dec-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,74,"King of boys",2018,2021-09-14,18+,7.8,Movie,"romantic drama",0,CNY,F
+7281,15,12,22-Sep-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,15,"Crime stories: india detectives",2021,2021-09-22,7+,4.5,"TV Show",comedy,10,CNY,F
+7244,15,76,25-Sep-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,15,"Crime stories: india detectives",2021,2021-09-22,7+,4.5,"TV Show",comedy,10,CNY,F
+8557,24,89,25-Sep-21,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,24,"Go! go! cory carson: chrissy takes the wheel",2021,2021-09-21,13+,8,Movie,western,6,CNY,F
